@@ -10,4 +10,10 @@ A entrada consiste em três números inteiros que representam a idade das pessoa
 Saída
 A saída imprimirá a média de idade da turma.
 
-*** Utilizei Scanner, entrada de inteiro, processamento com double, e saida por println.
+*** Utilizei Scanner, entrada de inteiro, processamento com flout, e saida por println.
+No desafio retirei os acrescimos de informações que não foram aceitas. As linhas:
+        System.out.printf("Informe a idade da primeira pessoa: ");
+        System.out.printf("Informe a idade da segunda pessoa: ");
+        System.out.printf("Informe a idade da terceira pessoa: ");
+            System.out.printf("\nResultado:\n");
+                      System.out.printf("Obrigada, fim! \n\n");
